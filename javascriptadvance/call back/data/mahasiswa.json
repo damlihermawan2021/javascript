@@ -1,0 +1,27 @@
+[
+    {
+        "nama" : "damli hermawan",
+        "nim"  : "10114047",
+        "kelas": "IF-2",
+        "jurusan": "Teknik Informatika",
+        "email": "damlihermawan09@gmail.com",
+        "idDosenwali" : 1
+    
+    },
+    {
+        "nama" : "Krisna Pamadya",
+        "nim"  : "10114048",
+        "kelas": "IF-1",
+        "jurusan": "Teknik Informatika",
+        "email": "PenaBamboe@gmail.com",
+        "idDosenwali" : 2
+    },
+    {
+        "nama" : "Syahrun Dalu",
+        "nim"  : "10114050",
+        "kelas": "IF-3",
+        "jurusan": "Teknik Informatika",
+        "email": "Blacky@gmail.com",
+        "idDosenwali" : 3
+    }
+]
